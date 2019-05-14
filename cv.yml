@@ -1,0 +1,64 @@
+Name: Reginald Roman Bigornia
+
+Work Experience:
+  - Systems Developer:
+    company: Sprobe Inc.
+    dateStarted: May 2014
+    dateEnded: August 2015
+    description:
+    - Developed in-house voip system in Android and iOS (before kotlin and swift)
+    - Developed web applications for international clients using Java
+  - Software Developer:
+    company: Neso Technical Solutions Inc.
+    dateStarted: November 2016 
+    dateEnded: null
+    description:
+    - Developed in-house web applications designed to increase productivity for the whole company.
+    - Deployed and maintained our web applications using CI/CD, containerization and automation technologies.
+
+Education:
+  - BS in Computer Engineering:
+    institution: University of San Carlos - Technological Center
+    dateStarted: June 2009
+    dateEnded: May 2014
+
+Techonolgy:
+  - Languages:
+    Java: Prior Experience
+    JavaScript: Proficient
+    PHP: Proficient
+    Python: Experience
+  - Frameworks:
+    Spring: Application framework and inversion of control container for Java.
+    Angular.js 1: JavaScript-based open-source front-end web framework.
+    Ember.js: Open-source JavaScript web framework.
+    Sails.js: JavaScript web application framework.
+    Laravel: Open-source PHP web framework.
+    Django: Python-based open-source web framework.
+  - Tools:
+    Apache Maven: Software project management and comprehension tool.
+    Gradle: Build automation system.
+    Node.js: Javascript runtime build on Chrome's V8 JavaScript engine.
+    NPM: Package manager for Node.js
+    Composer: Dependency Manager for PHP.
+    Pip: Package installer for Python.
+    Codeship: Continuous integration service.
+    Kubernetes: Deployment, scaling and management automation system.
+    Docker: Contanerization management tool.
+    Google Cloud Platform: Google suite of cloud computing services.
+    Git: Version control system
+
+Skills and Competences:
+  - Good written and verbal communication skills
+  - Creativity
+  - Persistence
+
+Languages:
+  - English
+  - Filipino
+
+Interests:
+  - Embedded systems
+  - Freediving
+  - Gaming
+  - Reading
